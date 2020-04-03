@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Estudos/Interview_Symless/live_interview/live_c_plusplus/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1423~1.281\\bin\\Hostx64\\x86\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\ChatServer.dir\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Estudos\\Interview_Symless\\live_interview\\live_c_plusplus\\main.cpp",
+  "file": "D:/Estudos/Interview_Symless/live_interview/live_c_plusplus/main.cpp"
+}
+]
